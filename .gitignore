@@ -15,4 +15,4 @@ __pycache__
 *.aux
 *.dvi
 *.log
-*.out.ps
+*.out.ps.DS_Store
